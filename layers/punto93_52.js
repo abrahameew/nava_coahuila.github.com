@@ -1,0 +1,1 @@
+var json_punto93_52 = {"type":"FeatureCollection","name":"punto93_52","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"93"},"geometry":{"type":"Point","coordinates":[-100.773914474612752,28.414612555819559]}}]}
